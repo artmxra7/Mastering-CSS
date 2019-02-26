@@ -1,4 +1,5 @@
 # Mastering-CSS
+This is the code Repository for your learn basic CSS from Zero to Hero
 
 ## BASIC-CONTENT
 
