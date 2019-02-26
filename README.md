@@ -1,6 +1,14 @@
 # Mastering-CSS
-ARTMX Open Source Society University. From Zero to Hero Mastering CSS.
 
+## BASIC-CONTENT
+
+## REQUIREMENTS
+
+
+## CONTRIBUTING
+
+
+## LICENSE
 MIT License
 
 Copyright (c) 2019 Erwin Rahayu 'ARTMX'
